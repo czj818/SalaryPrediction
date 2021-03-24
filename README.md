@@ -25,9 +25,9 @@ There are total of 9 attributes in the dataset and salary is our dependent varia
 
 First, let's look at the statistical metrics for salary. The median salary is \$114,000,  the mean is \$116,0618 and the maximum salary is \$301,000. From the box plot below, there are many salaries exceed the upper bound of IQR. However, these are legitimate data after examination, not outliers. The distribution plot shows a slightly skewed distribution with a longer right tail.
 
-![Alt Text](/Users/zhijuncai/Documents/GitHub/SalaryPrediction/image/Screen Shot 2021-03-23 at 9.41.42 PM.png)
+![Alt Text](https://github.com/czj818/SalaryPrediction/blob/main/image/box:hist.png)
 
 ### Degree V.S. Salary
 
-![alt Text] (/Users/zhijuncai/Desktop/salaryeda/Screen Shot 2021-03-23 at 9.57.13 PM.png)
+![alt Text] (https://github.com/czj818/SalaryPrediction/blob/main/image/degree.png)
 
