@@ -31,13 +31,13 @@ First, let's look at the statistical metrics for salary. The median salary is \$
 
 According to the box plot of salaries for different education levels, it is apparent that with or without a college degree is associated with the salaries. Without a college degree, people are more difficult to have a high salary job compare to those who have a college degree.  The median of the salary increases as the education degree goes up.
 
-![Alt Text] (https://github.com/czj818/SalaryPrediction/blob/main/image/degree.png)
+![Alt Text](https://github.com/czj818/SalaryPrediction/blob/main/image/degree.png)
 
 ### Salaries for different Job Types in different industry
 
-After ranked job types from Janitor to CEO, the trend that the higher job type level leads to the higher compensation 
+After ranked job types from Janitor to CEO, the trend that the higher job type level leads to the higher compensation is obvious.
  
- ![Alt Text] (https://github.com/czj818/SalaryPrediction/blob/main/image/industry.png)
+ ![Alt Text](https://github.com/czj818/SalaryPrediction/blob/main/image/industry.png)
  
  
 
